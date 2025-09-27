@@ -59,7 +59,6 @@ You can adjust these settings in the `main()` function:
 
 ### Method 1: Using Virtual Environment (Recommended)
 ```powershell
-cd "C:\Users\adnan\OneDrive\Desktop\Geds Scraper"
 & ".venv\Scripts\python.exe" geds_scrapper.py
 ```
 
